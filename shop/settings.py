@@ -129,4 +129,3 @@ STATIC_ROOT=os.path.join(BASE_DIR,'assets')
 MEDIA_URL = "/image/download/"
 MEDIA_ROOT = BASE_DIR
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
