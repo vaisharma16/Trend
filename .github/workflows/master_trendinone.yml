@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'trendinone'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D63E6B66A40424CA23B4467117B04AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CEA71783F2E04BD9A91CE006A9F5B882 }}
